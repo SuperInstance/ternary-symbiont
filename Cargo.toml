@@ -1,0 +1,6 @@
+[package]
+name = "ternary-symbiont"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Symbiotic relationship patterns for ternary agents including mutualism, parasitism, and commensalism"
