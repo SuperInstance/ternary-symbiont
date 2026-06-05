@@ -96,3 +96,11 @@ Works with `ternary-agent` (individual agents that develop relationships), `tern
 ## License
 
 MIT
+
+## See Also
+- **ternary-evolution-advanced** — related
+- **ternary-ga** — related
+- **ternary-fitness** — related
+- **ternary-genome** — related
+- **ternary-swarm** — related
+
